@@ -157,14 +157,14 @@ TCB结构，寄存器堆和任务栈的关系图如下：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/a4498d68a6294dc99c0f2227e5f6c760.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAbGl5aW51bzIwMTc=,size_14,color_FFFFFF,t_70,g_se,x_16)
 静态区定义的任务TCB对象中的栈指针指向任务栈区的栈顶，任务栈区保存着寄存器堆的数据，寄存器堆中的PC值指向任务的代码区，任务状态列表和任务事件列表与就绪表，等待表和挂起表关联。
 
-><font color=red>**未完待续…
-  
-实时操作系统系列将持续更新
-  
-创作不易希望朋友们点赞，转发，评论，关注。
-  
-您的点赞，转发，评论，关注将是我持续更新的动力
-  
-作者：李巍
-  
-Github：liyinuoman2017**
+> 未完待续…
+> 
+> 实时操作系统系列将持续更新
+> 
+> 创作不易希望朋友们点赞，转发，评论，关注。
+> 
+> 您的点赞，转发，评论，关注将是我持续更新的动力
+> 
+> 作者：李巍
+> 
+> Github：liyinuoman2017
